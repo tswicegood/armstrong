@@ -25,6 +25,7 @@ setup(
         "armstrong.core.arm_wells>=1.6.0,<1.7",
         "armstrong.apps.articles>=1.1.1,<1.2",
         "armstrong.apps.content>=1.0.2,<1.1",
+        "armstrong.apps.donations>=1.0.0,<1.1",
         "armstrong.apps.images>=1.1.1,<1.2",
         "armstrong.apps.related_content>=2.0.1,<2.1",
         "armstrong.hatband>=1.2.4,<1.3",
